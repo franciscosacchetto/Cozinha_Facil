@@ -1,0 +1,127 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "login": "admin",
+      "senha": "123",
+      "nome": "Administrador",
+      "email": "admin@site.com",
+      "admin": true
+    },
+    {
+      "id": "2",
+      "login": "user",
+      "senha": "123",
+      "nome": "Usuário Comum",
+      "email": "user@site.com",
+      "admin": false
+    },
+    {
+      "id": "d70c",
+      "login": "francisco",
+      "nome": "Francisco Sacchetto Andrade",
+      "email": "franciscosacchettoandrade@gmail.com",
+      "senha": "123",
+      "admin": false
+    }
+  ],
+  "receitas": [
+    {
+      "id": "1",
+      "titulo": "Bolo de Cenoura",
+      "descricao": "Delicioso bolo com cobertura de chocolate",
+      "imagem": "https://picsum.photos/800/400?random=1",
+      "destaque": true,
+      "categoria": "doces"
+    },
+    {
+      "id": "2",
+      "titulo": "Lasanha",
+      "descricao": "Camadas de massa, molho e queijo derretido.",
+      "imagem": "https://picsum.photos/800/400?random=2",
+      "destaque": false,
+      "categoria": "salgados"
+    },
+    {
+      "id": "3",
+      "titulo": "Feijoada",
+      "descricao": "Prato tradicional brasileiro com feijão preto e carnes.",
+      "imagem": "https://picsum.photos/800/400?random=3",
+      "destaque": true,
+      "categoria": "salgados"
+    },
+    {
+      "id": "4",
+      "titulo": "Panqueca",
+      "descricao": "Massa leve e recheio a gosto, com molho por cima.",
+      "imagem": "https://picsum.photos/200/150?random=4",
+      "destaque": false,
+      "categoria": "outros"
+    },
+    {
+      "id": "5",
+      "titulo": "Salada Caesar",
+      "descricao": "Alface, croutons, parmesão e molho especial.",
+      "imagem": "https://picsum.photos/200/150?random=5",
+      "destaque": false,
+      "categoria": "doces"
+    },
+    {
+      "id": "6",
+      "titulo": "Pizza Marguerita",
+      "descricao": "Molho de tomate, queijo, manjericão e azeite.",
+      "imagem": "https://picsum.photos/200/150?random=6",
+      "destaque": true,
+      "categoria": "doces"
+    },
+    {
+      "id": "7",
+      "titulo": "Hambúrguer Artesanal",
+      "descricao": "Pão brioche, hambúrguer suculento e queijo.",
+      "imagem": "https://picsum.photos/200/150?random=7",
+      "destaque": false,
+      "categoria": "salgados"
+    },
+    {
+      "id": "8",
+      "titulo": "Escondidinho de Carne",
+      "descricao": "Purê de batata com recheio de carne seca.",
+      "imagem": "https://picsum.photos/200/150?random=8",
+      "destaque": true,
+      "categoria": "salgados"
+    },
+    {
+      "id": "9",
+      "titulo": "Torta de Limão",
+      "descricao": "Base crocante com recheio cremoso e merengue.",
+      "imagem": "https://picsum.photos/200/150?random=9",
+      "destaque": false,
+      "categoria": "doces"
+    },
+    {
+      "id": "10",
+      "titulo": "Coxinha",
+      "descricao": "Clássico salgado recheado com frango.",
+      "imagem": "https://picsum.photos/200/150?random=10",
+      "destaque": false,
+      "categoria": "salgados"
+    },
+    {
+      "id": "11",
+      "titulo": "Pudim de Leite",
+      "descricao": "Sobremesa tradicional com calda de caramelo.",
+      "imagem": "https://picsum.photos/200/150?random=11",
+      "destaque": true,
+      "categoria": "doces"
+    },
+    {
+      "id": "e825",
+      "titulo": "Arroz Carreteiro",
+      "imagem": "https://picsum.photos/200/150?random=12",
+      "descricao": "Um prato típico do sul do Brasil, feito com arroz, carne seca e temperos.",
+      "categoria": "salgados",
+      "destaque": false
+    }
+  ],
+  "favoritos": []
+}
