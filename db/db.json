@@ -23,6 +23,22 @@
       "email": "franciscosacchettoandrade@gmail.com",
       "senha": "123",
       "admin": false
+    },
+    {
+      "id": "e2a5",
+      "login": "Rosinha",
+      "nome": "Rosângela Maria da Cruz",
+      "email": "Rosinha@gmail.com",
+      "senha": "123",
+      "admin": false
+    },
+    {
+      "id": "2c9a",
+      "login": "Cy",
+      "nome": "Cynthia Sacchetto",
+      "email": "Cy@gmail.com",
+      "senha": "123",
+      "admin": false
     }
   ],
   "receitas": [
@@ -123,5 +139,20 @@
       "destaque": false
     }
   ],
-  "favoritos": []
+  "favoritos": [
+    {
+      "id": "3ed5",
+      "receitaId": "e825",
+      "usuarioId": "e2a5",
+      "titulo": "Arroz Carreteiro",
+      "imagem": "https://picsum.photos/200/150?random=12"
+    },
+    {
+      "id": "ad1d",
+      "receitaId": "1",
+      "usuarioId": "2c9a",
+      "titulo": "Bolo de Cenoura",
+      "imagem": "https://picsum.photos/800/400?random=1"
+    }
+  ]
 }
